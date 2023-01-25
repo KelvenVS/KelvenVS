@@ -8,8 +8,6 @@
 
 ![Kelven's GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvenVS&show_icons=true&theme=merko)
 
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvenvs&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀🚀Technologies of my day-of-day🚀🚀
