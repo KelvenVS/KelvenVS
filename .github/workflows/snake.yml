@@ -4,7 +4,7 @@
   uses: Platane/snk@v1.1.4
   with:
     # github user name
-    github_user_name: 
+    github_user_name: KelvenVS
     # path of the generated gif file. If left empty, the gif file will not be generated.
     gif_out_path: # optional
     # path of the generated svg file. If left empty, the svg file will not be generated.
