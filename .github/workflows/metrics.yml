@@ -31,3 +31,7 @@ jobs:
           config_timezone: America/Sao_Paulo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          ######################################
+          plugin_code: yes
+          plugin_code_languages: javascript, typescript
+          plugin_code_load: 400
