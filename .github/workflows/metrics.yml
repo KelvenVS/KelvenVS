@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "6 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -26,9 +26,9 @@ jobs:
 
           # Options
           user: KelvenVS
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Sao_Paulo
+          # template: classic
+          # base: header, activity, community, repositories, metadata
+          # config_timezone: America/Sao_Paulo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           ######################################
