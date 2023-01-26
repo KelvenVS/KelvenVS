@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -30,8 +30,8 @@ jobs:
           # base: header, activity, community, repositories, metadata
           # config_timezone: America/Sao_Paulo
           #
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          #plugin_isocalendar: yes
+          #plugin_isocalendar_duration: half-year
           #
           #plugin_code: yes
           #plugin_code_languages: javascript, typescript
