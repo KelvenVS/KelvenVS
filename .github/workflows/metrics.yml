@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "1 * * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -27,7 +27,26 @@ jobs:
           # Options
           user: kelvenvs
           template: classic
-          base: ""
+          config_order: base.header,isocalendar,activity,habits
+          base: "header"
+          #Title
           config_timezone: America/Sao_Paulo
+          #config
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          #
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          #calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          #
