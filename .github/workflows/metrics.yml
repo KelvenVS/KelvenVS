@@ -27,7 +27,7 @@ jobs:
           # Options
           user: kelvenvs
           template: classic
-          config_order: base.header,isocalendar,activity,habits
+          config_order: base.header,isocalendar,habits,activity
           base: "header"
           #Title
           config_timezone: America/Sao_Paulo
