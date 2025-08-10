@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="723" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="756" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,15 +31,15 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -1071,6 +1071,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1081,13 +1086,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 15 commits)</small>
+                    <small class="h-details">(computed from last 12 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.5 characters per line of code written</li>
-                        <li>Mostly pushes code around 16:00</li>
+                        <li>Has approximately 31.7 characters per line of code written</li>
+                        <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
@@ -1109,20 +1114,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">KelvenVS/store_api</span>
+                                        <span class="repo">Tpx-cria/healthy.ly</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">TCC-BD-Test</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b238934</div>
-                                        <div class="message">🔧 chore: atualizar Makefile e .gitignore
-
-- Atualizado `Makefile` com comandos:
-  - `run-docker`: inicia os containers com `docker-compose up -d`
-  - `down-docker`: derruba containers ativos com `docker stop`
-
-- Atualizado `.gitignore` para ignorar configurações específicas do VSCode .vscode</div>
+                                        <div class="sha">#fa141b9</div>
+                                        <div class="message">Testes Marcos</div>
                                     </div>
                                 </div>
                             </section>
@@ -1131,13 +1130,56 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Forked
-                                        <span class="repo">digitalinnovationone/store_api</span>
-                                        to
-                                        <span class="repo">KelvenVS/store_api</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">Tpx-cria/healthy.ly</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">TCC-BD-Test</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d33f8b6</div>
+                                        <div class="message">refactor(metas-usuarios): atualizar MetaUsuarioMapper para mapear DTO ↔ entidade sem AcaoUnidadeId
+
+- DTO → Entity: seta `acao` e `usuario` via IDs e popula `idUnidade` (transient)
+- Entity → DTO: lê IDs de `acao` e `usuario` e retorna `idUnidade` transitório
+- Remove chamadas a get/setAcaoUnidadeId(...)
+
+Resultado: mapper compatível com a nova modelagem de MetaUsuario</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc5d962</div>
+                                        <div class="message">refactor(metas-usuarios): ajustar MetaUsuarioService para construir AcaoUnidadeId dinamicamente
+
+- Remove dependência de meta.getAcaoUnidadeId()
+- Constrói AcaoUnidadeId a partir de meta.getAcao().getId() e meta.getIdUnidade()
+- Garante criação/verificação do vínculo em acao_unidade quando necessário
+
+Impacto: service passa a respeitar o modelo com PK simples em MetaUsuario</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9dbd518</div>
+                                        <div class="message">refactor(metas-usuarios): atualizar MetaUsuarioController para usar relacionamentos
+
+- Substitui setAcaoUnidadeId(...) por setAcao(...) e setUsuario(...)
+- Preenche `idUnidade` transitório a partir do DTO (quando aplicável)
+- Mantém demais campos (título, descrição, datas, status)
+
+Motivação: alinhar controller ao novo modelo da entidade (PK simples)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#056ba72</div>
+                                        <div class="message">feat(metas-usuarios): modelar MetaUsuario com PK simples e relacionamentos
+
+- Remove uso indevido de @EmbeddedId/AcaoUnidadeId em MetaUsuario
+- Remove campo duplicado `idUsuario` mapeado a coluna (conflitava com @ManyToOne usuario)
+- Adiciona relacionamentos @ManyToOne para `acao` e `usuario`
+- Adiciona campo @Transient `idUnidade` para trafegar dado do DTO ao service
+- Mantém enum `Status` e ajustes de getters/setters
+
+Refs: DDL `metas_usuarios` usa PK auto-incremento (`id_meta_usuario`)</div>
                                     </div>
                                 </div>
                             </section>
@@ -1150,24 +1192,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">KelvenVS/Projeto-FastAPI</span>
+                                        <span class="repo">Tpx-cria/healthy.ly</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">FastAPI-Make</span></div>
+                                    <div>on branch <span class="code">TCC-BD-Test</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a4ed04d</div>
-                                        <div class="message">✏️ feat: adicionar endpoints de atualização e exclusão de atleta
-
-- Criado endpoint `PATCH /atletas/{id}` para atualizar dados de um atleta:
-  - Utiliza `AtletaUpdate` com `exclude_unset=True` para aplicar apenas campos modificados.
-  - Atualiza valores dinamicamente com `setattr` e confirma com `commit` e `refresh`.
-
-- Criado endpoint `DELETE /atletas/{id}` para remover um atleta do banco:
-  - Verifica existência do registro e executa `delete` seguido de `commit`.
-  - Retorna `204 No Content` em caso de sucesso.
-
-- Ambos endpoints tratam erro `404` caso o atleta não seja encontrado.</div>
+                                        <div class="sha">#036c03f</div>
+                                        <div class="message">Correções para rodar o bd e backend local</div>
                                     </div>
                                 </div>
                             </section>
@@ -1180,22 +1212,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">KelvenVS/Projeto-FastAPI</span>
+                                        <span class="repo">Tpx-cria/healthy.ly</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">FastAPI-Make</span></div>
+                                    <div>on branch <span class="code">TCC-BD-Test</span></div>
                                     <div class="commit">
-                                        <div class="sha">#66a3c51</div>
-                                        <div class="message">🔍 feat: adicionar busca de atletas com suporte a relacionamento e lazy loading
-
-- Adicionado `lazy='selectin'` aos relacionamentos `categoria` e `centro_treinamento` em `AtletaModel`, permitindo carregamento eficiente ao consultar atletas.
-
-- Criadas rotas:
-  - `GET /atletas`: retorna lista de atletas convertendo `AtletaModel` para `AtletaOut` com `.model_validate(...)`.
-  - `GET /atletas/{id}`: retorna um atleta específico, com tratamento para 404 se não encontrado.
-
-- Garante retorno completo com dados relacionais e melhora a performance com carregamento seletivo.</div>
+                                        <div class="sha">#6770810</div>
+                                        <div class="message">Testes no Backend</div>
                                     </div>
                                 </div>
                             </section>
@@ -1204,35 +1228,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">KelvenVS/Projeto-FastAPI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">FastAPI-Make</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#795c258</div>
-                                        <div class="message">🏋️ feat: adicionar endpoint para criação de atleta com validação de relacionamentos
-
-- Implementado método `POST /atletas` que:
-  - Verifica a existência da `categoria` e do `centro de treinamento` pelo nome.
-  - Cria um novo `AtletaModel` com UUID e timestamp.
-  - Associa corretamente os IDs de categoria e centro de treinamento ao modelo.
-  - Realiza persistência assíncrona com `db_session.add()` e `commit()`.
-- Retorna `AtletaOut` em caso de sucesso.
-- Adicionadas validações com `HTTPException` para erros de integridade referencial.
-- Garante inserção segura e relacional no banco de dados.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe03b60</div>
-                                        <div class="message">🐛 fix: corrigir parâmetro `examples` para `example` no schema de centro de treinamento
-
-- Corrigido erro de tipagem no campo `nome` do schema `CentroTreinamentoAtleta`:
-  - `examples="CT King"` → `example="CT King"`
-- Garante compatibilidade com a documentação automática do Swagger gerada pelo FastAPI.</div>
+                                        Created new
+                      branch
+                                        <span class="code">TCC-BD-Test</span>
+                                        in
+                                        <span class="repo">Tpx-cria/healthy.ly</span>
                                     </div>
                                 </div>
                             </section>
