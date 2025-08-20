@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1056" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="739" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -95,7 +95,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.87
+                            Average per day at ~0.86
                         </div>
                     </section>
                 </div>
@@ -1088,6 +1088,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1098,13 +1103,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 17 commits)</small>
+                    <small class="h-details">(computed from last 19 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.2 characters per line of code written</li>
-                        <li>Mostly pushes code around 22:00</li>
+                        <li>Has approximately 31.0 characters per line of code written</li>
+                        <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
                 </div>
@@ -1118,6 +1123,76 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Tpx-cria/healthy.ly</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">TCC-BD-Test</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#76f938f</div>
+                                        <div class="message">feat: chave composta em MetaUsuario e refatoração de camadas
+
+- Criada relação composta `(id_acao, id_unidade)` no model `MetaUsuario` apontando para `AcaoUnidade`
+- Refeito controller, service e mapper para trabalhar com a nova chave composta
+- Adicionadas validações para garantir a existência da chave composta na tabela `AcaoUnidade`</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Tpx-cria/healthy.ly</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">TCC-BD-Test</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dbd4f14</div>
+                                        <div class="message">feat: ajustes em MetaUsuarioController e modelagem
+
+- Alteradas as rotas do `MetaUsuarioController`
+- Correção na estrutura do banco de dados com criação da coluna `id_unidade`
+- Removido o uso de `@Transactional` dos services</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Tpx-cria/healthy.ly</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">TCC-BD-Test</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f8d1727</div>
+                                        <div class="message">🧭 feat!: mudar rota acao-unidade
+
+- `@RequestMapping` alterado de **/api/acao-unidade** para **/acao-unidade**.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1161,260 +1236,6 @@
                                         <div class="message">📄 docs: atualizar README
 
 - Atualizado `README.md` com instruções revisadas e correções de formatação.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 19 commits in
-                                        <span class="repo">Tpx-cria/healthy.ly</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">TCC-BD-Test</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c6d098b</div>
-                                        <div class="message">👥 feat!: usuario-grupo refatorado
-
-- Criado `UsuarioGrupoID` para chave composta (`usuario_id` + `grupo_id`).
-- Implementado `UsuarioGrupo` model com relacionamentos consistentes.
-- Adicionados `Repository`, `Service` e `Controller` com CRUD e validações.
-- Padronizadas respostas e uso de query params.
-
-**BREAKING CHANGE:** estrutura e chave primária da relação usuário–grupo foram alteradas; ajuste migrações e chamadas da API.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad4bfd0</div>
-                                        <div class="message">🧭 feat!: ações &amp; rotas
-
-- Atualizado `AcaoController` para usar **query params** nas operações.
-- Novas rotas:
-  - `GET /acoes/buscar?id=...`
-  - `PUT /acoes/alterar?id=...`
-  - `DELETE /acoes/deletar?id=...`
-- Padronização com outros controllers (Grupo/UnidadeMedida).
-
-**BREAKING CHANGE:** endpoints de ação tiveram nomes alterados; ajuste as chamadas do cliente.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff8110d</div>
-                                        <div class="message">🧭 feat!: unidades &amp; rotas
-
-- **Model:** `UnidadeMedida` passa a usar `@Enumerated(EnumType.STRING)` para o enum `Tipo` (`volume`, `tempo`, `quantidade`, `espaco`).
-- **Controller:** uso de **query params** e novas rotas:
-  - `GET /unidades/buscar?id=...`
-  - `PUT /unidades/alterar?id=...`
-  - `DELETE /unidades/deletar?id=...`
-- **BREAKING CHANGE:** nomes de rotas alterados; clientes devem ajustar as chamadas da API.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e382f04</div>
-                                        <div class="message">🔧 refactor: query params
-
-- Atualizado `GrupoController` para usar `@RequestParam`:
-  - `GET /grupos/buscar?id=...`
-  - `PUT /grupos/alterar?id=...`
-  - `DELETE /grupos/deletar?id=...`
-- Padroniza busca/alteração/remoção por `id` via query string.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e374df2</div>
-                                        <div class="message">🛠️ raw: DDL auto update
-
-- `application-local.yml`: definido `ddl-auto: update` para atualizar o schema na inicialização.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0206ff1</div>
-                                        <div class="message">🔧 chore: Makefile backend
-
-- Adicionados alvos `nuke-backend` (stop + down -v) e `stop-backend` (stop + down).
-- Facilita parar e remover containers do backend em dev.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfd28bd</div>
-                                        <div class="message">⏱️ feat: timestamps automáticos
-
-- Adicionado `@PrePersist` em `Usuario` e `Progresso` para registrar timestamp no insert.
-- Preenche o campo de criação com `LocalDateTime.now()` garantindo auditoria de criação.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8df4ad0</div>
-                                        <div class="message">🛡️ feat: ApiError &amp; handler
-
-- Criado DTO `ApiError` para respostas de erro padronizadas.
-- Adicionado `GloalExeptionHandler` para tratamento global de exceções.
-- Padronizadas respostas JSON para erros de validação e de regra de negócio.
-
----
-
-🚨 fix: email duplicado
-
-- Criada `EmailJaCadastradoException extends RuntimeException`.
-- Ajustado método `salvar(Usuario)` para lançar a exceção quando o e-mail já existir.
-- Respostas de erro agora retornam via `ApiError`, mantendo consistência da API.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ee1ed6</div>
-                                        <div class="message">🧹 chore: remover imports não utilizados
-
-- Removidos imports desnecessários em classes do projeto para melhorar legibilidade e manter código limpo.
-- Reduz warnings de compilação e facilita manutenção futura.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#383d9f0</div>
-                                        <div class="message">♻️ refactor: melhorar controlador de usuários com validações e buscas flexíveis
-
-- Alterada rota `GET /usuarios/{id}` para `GET /usuarios/buscar` com suporte a filtros por `id` ou `email`.
-- Adicionadas respostas claras para casos de erro:
-  - `400 Bad Request` quando nenhum parâmetro é informado.
-  - `404 Not Found` quando usuário não é encontrado.
-- Alterada rota `PUT /usuarios/{id}` para `PUT /usuarios/alterar`:
-  - Validação de presença do parâmetro `id` e do corpo da requisição.
-  - Mensagens de erro detalhadas.
-- Alterada rota `DELETE /usuarios/{id}` para `DELETE /usuarios/deletar`:
-  - Validação de parâmetro `id`.
-  - Mensagens de erro consistentes para não encontrados.
-- Incluídas respostas com `ResponseEntity` parametrizadas e uso de `HttpStatus` para padronizar status HTTP.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f36db4</div>
-                                        <div class="message">📦 feat: adicionar busca de usuário por email
-
-- **Service (`UsuarioService`)**
-  - Criado método `buscarPorEmail(String email)` retornando `Optional&lt;Usuario&gt;` via repositório.
-
-- **Repository (`UsuarioRepository`)**
-  - Adicionado método `findByEmail(String email)` para consulta por email com suporte a `Optional`.
-
-- Suporte necessário para nova rota `GET /usuarios/buscar` que permite localizar usuários por ID ou email.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a15e1e</div>
-                                        <div class="message">feat(metas-usuarios): refatorar frontend e fluxo de criação/listagem de metas
-
-- Adiciona ApiConfig para configurar host dinamicamente (Android/iOS/Web/Desktop/Linux)
-- Refatora MetaUsuarioService para suportar listarPorUsuario com filtro no frontend
-- Atualiza MetaUsuario model com copyWith, isConcluida e comparação por valor
-- Ajusta CriarMetaScreen para fechar ao criar meta e retornar sinal de sucesso
-- Centraliza feedback de sucesso/erro na MetasScreen com Snackbar
-- Melhora validações e UX na criação de metas
-- Garante que metas criadas no backend também sejam listadas no frontend
-- Corrige integração para que novas metas apareçam imediatamente após criação
-
-Impacto: frontend exibe todas as metas (criadas no backend e no app) no formato esperado;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61245df</div>
-                                        <div class="message">Testes Marcos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1df1f00</div>
-                                        <div class="message">refactor(metas-usuarios): atualizar MetaUsuarioMapper para mapear DTO ↔ entidade sem AcaoUnidadeId
-
-- DTO → Entity: seta `acao` e `usuario` via IDs e popula `idUnidade` (transient)
-- Entity → DTO: lê IDs de `acao` e `usuario` e retorna `idUnidade` transitório
-- Remove chamadas a get/setAcaoUnidadeId(...)
-
-Resultado: mapper compatível com a nova modelagem de MetaUsuario</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#acfcd2a</div>
-                                        <div class="message">refactor(metas-usuarios): ajustar MetaUsuarioService para construir AcaoUnidadeId dinamicamente
-
-- Remove dependência de meta.getAcaoUnidadeId()
-- Constrói AcaoUnidadeId a partir de meta.getAcao().getId() e meta.getIdUnidade()
-- Garante criação/verificação do vínculo em acao_unidade quando necessário
-
-Impacto: service passa a respeitar o modelo com PK simples em MetaUsuario</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b128dd4</div>
-                                        <div class="message">refactor(metas-usuarios): atualizar MetaUsuarioController para usar relacionamentos
-
-- Substitui setAcaoUnidadeId(...) por setAcao(...) e setUsuario(...)
-- Preenche `idUnidade` transitório a partir do DTO (quando aplicável)
-- Mantém demais campos (título, descrição, datas, status)
-
-Motivação: alinhar controller ao novo modelo da entidade (PK simples)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef112d9</div>
-                                        <div class="message">feat(metas-usuarios): modelar MetaUsuario com PK simples e relacionamentos
-
-- Remove uso indevido de @EmbeddedId/AcaoUnidadeId em MetaUsuario
-- Remove campo duplicado `idUsuario` mapeado a coluna (conflitava com @ManyToOne usuario)
-- Adiciona relacionamentos @ManyToOne para `acao` e `usuario`
-- Adiciona campo @Transient `idUnidade` para trafegar dado do DTO ao service
-- Mantém enum `Status` e ajustes de getters/setters
-
-Refs: DDL `metas_usuarios` usa PK auto-incremento (`id_meta_usuario`)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8326df</div>
-                                        <div class="message">Correções para rodar o bd e backend local</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5c261b</div>
-                                        <div class="message">Testes no Backend</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Tpx-cria/healthy.ly</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">TCC-1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c6e3cac</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#630c532</div>
-                                        <div class="message">Atulização do Read.me
-
- comandos utilizados e explicação sobre o swagger</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Tpx-cria/healthy.ly</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">TCC-BD-Test</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fe77dba</div>
-                                        <div class="message">👥 feat!: usuario-grupo refatorado
-
-- Criado `UsuarioGrupoID` para chave composta (`usuario_id` + `grupo_id`).
-- Implementado `UsuarioGrupo` model com relacionamentos consistentes.
-- Adicionados `Repository`, `Service` e `Controller` com CRUD e validações.
-- Padronizadas respostas e uso de query params.
-
-**BREAKING CHANGE:** estrutura e chave primária da relação usuário–grupo foram alteradas; ajuste migrações e chamadas da API.</div>
                                     </div>
                                 </div>
                             </section>
